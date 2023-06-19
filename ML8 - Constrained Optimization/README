@@ -1,0 +1,11 @@
+# Module: Machine Learning - Constrained Optimization
+
+## Outline
+This course will cover:
+* Convex constrained problems and the CVXPY library
+* Penalty method to approximate constraints with non-convex solvers
+* Projected Gradient Descent method to approximate constraints with non-convex solvers
+
+## Excercises & Tasks
+
+There is one notebook to be completed, where the missing code is denoted by the comment *#TOFILL*.
